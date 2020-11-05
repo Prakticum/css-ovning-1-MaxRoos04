@@ -1,3 +1,6 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
 body{
     font-family: arial;
     font-size: 100%;
@@ -62,4 +65,28 @@ ol{
     list-style-type: lower-alpha;
   }
     
+lists{
+    background: #ccc;
+    padding: 1em;
+}
 
+h3{
+font-style: italic;
+}
+
+li{
+    border-top: 1px dashed #666;
+}
+
+h3{
+    color: red
+    
+}
+
+h1, h2, h3{
+    font-family: "Roboto";
+}
+
+#main-header{
+    border-bottom: 3px solid #000;
+}
